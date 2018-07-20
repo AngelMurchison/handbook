@@ -34,7 +34,7 @@ JavaScript is certainly the most powerful of the three
 
 ## Why not just one?
 
-HTML is certainly not smart enough to do everything on it's own, and CSS lacks the basic structure for it, but certainly with the power and adaptability of JavaScript, we could write an entire webpage using only it and an HTML file that will accept it's utter dominance! So why all the fuss about the other two? 
+HTML is really not smart enough to do everything on it's own, and CSS lacks the basic structure for it, but with the power and adaptability of JavaScript we could actually write an entire webpage using only it and an HTML file that will accept it's utter dominance! So why all the fuss about the other two? 
 
 Well, as you begin to work on bigger, cooler apps, you'll come to realize that things can get messy fast. Without separating the responsibilities out into different and distinct places, you will end up with a massive behemoth of a (java)Script that no one, not even you, will ever want to work on. It's a bit like asking why we don't put all of our clothes into one big drawer instead of having separate ones for socks and shorts.
 
